@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @grabde
+- 👀 I’m interested in programming and SAP technologies 
+- 🌱 I’m currently learning ABAP on HANA
+- 📫 How to reach me denisgrabiszewski98@gmail.com
